@@ -89,7 +89,7 @@
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/birthday/birthday_showcase.png" width="400"/>
 
-* [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) ⭐ 51 | 🐛 3 | 🌐 JavaScript | 📅 2022-03-08 - List of upcoming birthdays from contacts.
+* [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) ⭐ 50 | 🐛 3 | 🌐 JavaScript | 📅 2022-03-08 - List of upcoming birthdays from contacts.
 
   <img src="https://raw.githubusercontent.com/lwitzani/daysUntilBirthday/main/fullySetupWidget.PNG" width="400"/>
 
@@ -163,7 +163,7 @@
 
 ## Reading
 
-* [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) ⭐ 131 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-24 - The latest posts from a feed or a WordPress blog.
+* [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) ⭐ 130 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-24 - The latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
@@ -235,7 +235,7 @@
 
   <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
 
-* [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) ⭐ 107 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-09 - Get notifications about new spots in TestFlight betas.
+* [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-09 - Get notifications about new spots in TestFlight betas.
 
 * [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/GitHubStats%20Widget) ⭐ 54 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-27 - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
