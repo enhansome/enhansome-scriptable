@@ -126,7 +126,7 @@
             "last_commit": "2026-04-27T20:38:54Z",
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-27T20:38:54Z",
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-04-27T20:38:54Z",
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-04-27T20:38:54Z",
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -492,22 +492,7 @@
             "last_commit": "2026-04-27T20:38:54Z",
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gitlab-stats-for-scribtable",
-          "description": "Statistics from GitLab like the number of assigned merge requests.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 303186767,
-            "language": "JavaScript",
-            "last_commit": "2020-11-07T16:02:52Z",
-            "owner": "p0fi",
-            "repo": "gitlab-stats-for-scribtable",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -522,6 +507,21 @@
             "last_commit": "2026-04-27T20:38:54Z",
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitlab-stats-for-scribtable",
+          "description": "Statistics from GitLab like the number of assigned merge requests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 303186767,
+            "language": "JavaScript",
+            "last_commit": "2020-11-07T16:02:52Z",
+            "owner": "p0fi",
+            "repo": "gitlab-stats-for-scribtable",
             "stars": 54
           }
         },
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:59:51.919Z",
+    "last_updated": "2026-08-21T14:58:17.147Z",
     "original_repository": "dersvenhesse/awesome-scriptable",
     "original_repository_id": 308960993,
     "original_repository_sha": "f72dfbf602dba99fa39dacd96a63597c046be113",
