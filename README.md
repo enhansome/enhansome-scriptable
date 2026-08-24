@@ -121,11 +121,11 @@
 
 ## Gaming
 
-* [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a user's Steam wishlist.
-
 * [steam-profile-widget](https://github.com/SolsticeLeaf/Scriptable-Steam-Widget) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-25 - Shows a user's Steam profile.
 
   <img src="https://raw.githubusercontent.com/SolsticeLeaf/Scriptable-Steam-Widget/refs/heads/master/.github/images/in_game.jpg?raw=true" height="200"/>
+
+* [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a user's Steam wishlist.
 
 ## Health
 
@@ -275,7 +275,7 @@
 
 ## Traveling
 
-* [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) ⭐ 57 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-02 - Show Google Maps image from current location.
+* [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) ⭐ 58 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-02 - Show Google Maps image from current location.
 
 * [Toronto Bike Share](https://github.com/alexboden/toronto-bike-share-status/blob/main/compact-widget.js) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2026-01-16 - Show availabilites of the Toronto Bike Share.
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

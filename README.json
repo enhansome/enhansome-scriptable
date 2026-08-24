@@ -233,6 +233,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "scriptable-recipe",
+          "description": "Random food recipe widget that opens cooking video on YouTube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339880703,
+            "language": "JavaScript",
+            "last_commit": "2021-02-18T00:23:04Z",
+            "owner": "shfrmn",
+            "repo": "scriptable-recipe",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Food"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "steam-profile-widget",
+          "description": "Shows a user's Steam profile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081147667,
+            "language": "JavaScript",
+            "last_commit": "2025-10-25T16:10:35Z",
+            "owner": "SolsticeLeaf",
+            "repo": "Scriptable-Steam-Widget",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Gaming"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "VodafoneDE",
           "description": "Data consumption based on tariff for Vodafone DE.",
           "children": [],
@@ -365,6 +407,48 @@
         }
       ],
       "title": "Social"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "exchangeRate.js",
+          "description": "Currency exchange rates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299849727,
+            "language": "JavaScript",
+            "last_commit": "2020-11-28T11:49:17Z",
+            "owner": "Juniorchen2012",
+            "repo": "scriptable",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "Shopping"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Launch Schedule",
+          "description": "Upcoming space launches and info.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 505174745,
+            "language": "JavaScript",
+            "last_commit": "2024-06-25T17:49:20Z",
+            "owner": "rik-rosseel",
+            "repo": "launch-schedule",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Space"
     },
     {
       "description": null,
@@ -603,7 +687,7 @@
             "last_commit": "2026-08-02T11:38:17Z",
             "owner": "doersino",
             "repo": "scriptable-widgets",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -623,10 +707,38 @@
         }
       ],
       "title": "Traveling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Import-Script.js",
+              "description": "Script to download code (i.e., from Pastebin, GitHub) into Scriptable.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155394599,
+                "language": "JavaScript",
+                "last_commit": "2022-11-13T03:45:40Z",
+                "owner": "supermamon",
+                "repo": "scriptable-scripts",
+                "stars": 239
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Download helper"
+        }
+      ],
+      "title": "Related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:44:44.934Z",
+    "last_updated": "2026-08-24T14:11:40.378Z",
     "original_repository": "dersvenhesse/awesome-scriptable",
     "original_repository_id": 308960993,
     "original_repository_sha": "f72dfbf602dba99fa39dacd96a63597c046be113",
