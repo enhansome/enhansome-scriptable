@@ -738,9 +738,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:55:48.707Z",
-    "original_repository": "dersvenhesse/awesome-scriptable",
-    "original_repository_id": 308960993,
+    "last_updated": "2026-08-27T12:01:37.338Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 308960993,
+      "language": null,
+      "last_commit": "2025-11-15T08:43:02Z",
+      "owner": "dersvenhesse",
+      "repo": "awesome-scriptable",
+      "stars": 1617
+    },
     "original_repository_sha": "f72dfbf602dba99fa39dacd96a63597c046be113",
     "enhanced_repository": "enhansome/enhansome-scriptable",
     "enhanced_repository_description": null,
