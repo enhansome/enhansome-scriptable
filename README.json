@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 422756144,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-07T13:29:37Z",
+            "open_issues": 13,
             "owner": "opp100",
             "repo": "bmw-scriptable-widgets",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scriptable widget to pull data from the TeslaFi API",
+            "homepage": null,
             "id": 301939452,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-14T15:40:19Z",
+            "open_issues": 12,
             "owner": "DrieStone",
             "repo": "TeslaData-Widget",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polestar iOS medium widget via Scriptable",
+            "homepage": null,
             "id": 715991535,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-19T15:24:42Z",
+            "open_issues": 2,
             "owner": "niklasvieth",
             "repo": "polestar-ios-medium-widget",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 311614530,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-22T08:08:02Z",
+            "open_issues": 4,
             "owner": "Necriso",
             "repo": "ScriptableWidgets",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 315678195,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-03-17T12:48:13Z",
+            "open_issues": 6,
             "owner": "dschablowsky",
             "repo": "FordPassWidget",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 534843542,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-06T10:20:46Z",
+            "open_issues": 1,
             "owner": "Martlgap",
             "repo": "SmarterTankenWidget",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -112,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 408104276,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-09T01:25:23Z",
+            "open_issues": 2,
             "owner": "bitKrakenCode",
             "repo": "ScriptableWordClockWidget",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -128,12 +163,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An library of iOS widgets & scripts to supercharge your Apple experience, all built in Scriptable IOS app.",
+            "homepage": "https://scriptablehub.vercel.app",
             "id": 993577629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:38:54Z",
+            "open_issues": 1,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ios",
+              "ios-widgets",
+              "rushis-work",
+              "scriptable",
+              "scriptable-app",
+              "scriptable-widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -144,12 +191,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An library of iOS widgets & scripts to supercharge your Apple experience, all built in Scriptable IOS app.",
+            "homepage": "https://scriptablehub.vercel.app",
             "id": 993577629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:38:54Z",
+            "open_issues": 1,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ios",
+              "ios-widgets",
+              "rushis-work",
+              "scriptable",
+              "scriptable-app",
+              "scriptable-widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -160,12 +219,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An library of iOS widgets & scripts to supercharge your Apple experience, all built in Scriptable IOS app.",
+            "homepage": "https://scriptablehub.vercel.app",
             "id": 993577629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:38:54Z",
+            "open_issues": 1,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ios",
+              "ios-widgets",
+              "rushis-work",
+              "scriptable",
+              "scriptable-app",
+              "scriptable-widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -176,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script for the iOS App Scriptable, which lists up to 20 people of your contacts by their birthday",
+            "homepage": null,
             "id": 306874523,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-08T20:00:07Z",
+            "open_issues": 3,
             "owner": "lwitzani",
             "repo": "daysUntilBirthday",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -198,12 +274,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scriptable Widget showing your personal Crypto-Balances",
+            "homepage": null,
             "id": 348529994,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2021-05-19T09:50:57Z",
+            "open_issues": 0,
             "owner": "Martlgap",
             "repo": "CryptoDepotWidget",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "automation",
+              "balance",
+              "banking",
+              "coins",
+              "crypto",
+              "cryptocurrency",
+              "javascript",
+              "money",
+              "scriptable",
+              "trading",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -214,12 +307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tradegate Stock Widget for https://scriptable.app 📈",
+            "homepage": null,
             "id": 442748860,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-05-01T17:07:12Z",
+            "open_issues": 0,
             "owner": "Chrischi-",
             "repo": "tradegate-stock-widget-for-scriptable",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -230,12 +328,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scriptable widget that shows the current bitcoin course in US-Dollar based on coinbase",
+            "homepage": null,
             "id": 325682000,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-11-15T21:02:17Z",
+            "open_issues": 0,
             "owner": "wickenico",
             "repo": "btc-usd-course.js",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cryptocurrency",
+              "ios14-widget",
+              "javascript",
+              "scriptable",
+              "scriptable-app",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -252,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Random food recipe widget for iOS scriptable",
+            "homepage": null,
             "id": 339880703,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-18T00:23:04Z",
+            "open_issues": 0,
             "owner": "shfrmn",
             "repo": "scriptable-recipe",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -274,12 +389,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[JS] A widget that displays your Steam account status in the Scriptable app.",
+            "homepage": null,
             "id": 1081147667,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-25T16:10:35Z",
+            "open_issues": 0,
             "owner": "SolsticeLeaf",
             "repo": "Scriptable-Steam-Widget",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "games",
+              "gaming",
+              "ios",
+              "javascript",
+              "scriptable",
+              "steam",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -296,12 +424,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of iOS Widgets",
+            "homepage": null,
             "id": 306038050,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-23T19:39:25Z",
+            "open_issues": 10,
             "owner": "ThisIsBenny",
             "repo": "iOS-Widgets",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "ios",
+              "javascript",
+              "widget",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -312,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 316601240,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-03T21:18:21Z",
+            "open_issues": 0,
             "owner": "BergenSoft",
             "repo": "scriptable_premiumsim",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -334,12 +477,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Scriptable News Widget (WordPress & RSS)",
+            "homepage": null,
             "id": 310323218,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-24T11:44:36Z",
+            "open_issues": 9,
             "owner": "Saudumm",
             "repo": "scriptable-News-Widget",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "ios14",
+              "ios14-widget",
+              "scriptable",
+              "scriptable-app"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -350,12 +503,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An library of iOS widgets & scripts to supercharge your Apple experience, all built in Scriptable IOS app.",
+            "homepage": "https://scriptablehub.vercel.app",
             "id": 993577629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:38:54Z",
+            "open_issues": 1,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ios",
+              "ios-widgets",
+              "rushis-work",
+              "scriptable",
+              "scriptable-app",
+              "scriptable-widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -366,12 +531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sonntagsfrage is an iOS 14 Widget displaying current polls for upcoming elections in Germany.",
+            "homepage": null,
             "id": 315719439,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-09T11:00:18Z",
+            "open_issues": 2,
             "owner": "henningtillmann",
             "repo": "sonntagsfrage",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -382,12 +552,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Pocket favorites and unread widgets powered by Scriptable.",
+            "homepage": null,
             "id": 438098998,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-14T15:08:53Z",
+            "open_issues": 0,
             "owner": "brianseidman",
             "repo": "scriptable-pocket-widget",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "getpocket",
+              "ios",
+              "ios-widget",
+              "pocket",
+              "pocket-api",
+              "scriptable",
+              "scriptable-app",
+              "scriptable-widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -404,12 +588,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conversable is a simple contacts widget for Scriptable.",
+            "homepage": null,
             "id": 301962404,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-11T03:07:38Z",
+            "open_issues": 6,
             "owner": "andyngo",
             "repo": "conversable-for-scriptable",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "ios",
+              "scriptable",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -420,12 +613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 339951157,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-23T09:15:17Z",
+            "open_issues": 1,
             "owner": "supermamon",
             "repo": "scriptable-instagram-widgets",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -442,12 +640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scriptable scripts",
+            "homepage": null,
             "id": 299849727,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-28T11:49:17Z",
+            "open_issues": 5,
             "owner": "Juniorchen2012",
             "repo": "scriptable",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -464,12 +667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script for displaying upcoming launches in the Scriptable widget app for iOS.",
+            "homepage": null,
             "id": 505174745,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-06-25T17:49:20Z",
+            "open_issues": 1,
             "owner": "rik-rosseel",
             "repo": "launch-schedule",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -486,12 +694,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snow Info Widget for Scriptable",
+            "homepage": null,
             "id": 307474186,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2022-01-31T18:07:52Z",
+            "open_issues": 1,
             "owner": "p0fi",
             "repo": "skiable-for-scriptable",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "scriptable",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -502,12 +718,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display your favorite NCAAF/NFL team's schedule on iOS using the Scriptable app",
+            "homepage": null,
             "id": 538521542,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-14T02:58:10Z",
+            "open_issues": 0,
             "owner": "brianwalborn",
             "repo": "football-team-schedule-widget",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "football",
+              "javascript",
+              "ncaaf",
+              "nfl",
+              "scriptable",
+              "sports"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -518,12 +746,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project aims at displaying the latest scores of your favorite cfb team on your ios homescreen.",
+            "homepage": null,
             "id": 323906966,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-23T16:39:11Z",
+            "open_issues": 1,
             "owner": "jaydainn",
             "repo": "CFBWidget",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ios",
+              "javascript",
+              "js",
+              "scriptable",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -534,12 +773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Scriptable widget showing real-time gym capacity for ClubConnector gyms",
+            "homepage": null,
             "id": 1061700472,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-22T09:33:01Z",
+            "open_issues": 0,
             "owner": "v1lling",
             "repo": "scriptable-clubconnector",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -550,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scriptable widget that shows your Lichess statistics on iPhones and iPads",
+            "homepage": null,
             "id": 688972508,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-15T07:53:25Z",
+            "open_issues": 0,
             "owner": "bestmacfly",
             "repo": "Scriptable-lichess-Widget",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -572,12 +821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Scriptable app widget to query PurpleAir sensor and display local AQI.",
+            "homepage": null,
             "id": 297759774,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2023-09-27T21:58:41Z",
+            "open_issues": 1,
             "owner": "jasonsnell",
             "repo": "PurpleAir-AQI-Scriptable-Widget",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -588,12 +842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scriptable widget to watch for openings in TestFlight betas and notify you when a spot is available.",
+            "homepage": null,
             "id": 422019958,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-10-09T15:03:12Z",
+            "open_issues": 3,
             "owner": "colin273",
             "repo": "scriptable-testflight-watcher",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -604,12 +863,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An library of iOS widgets & scripts to supercharge your Apple experience, all built in Scriptable IOS app.",
+            "homepage": "https://scriptablehub.vercel.app",
             "id": 993577629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:38:54Z",
+            "open_issues": 1,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ios",
+              "ios-widgets",
+              "rushis-work",
+              "scriptable",
+              "scriptable-app",
+              "scriptable-widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -620,12 +891,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An library of iOS widgets & scripts to supercharge your Apple experience, all built in Scriptable IOS app.",
+            "homepage": "https://scriptablehub.vercel.app",
             "id": 993577629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:38:54Z",
+            "open_issues": 1,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ios",
+              "ios-widgets",
+              "rushis-work",
+              "scriptable",
+              "scriptable-app",
+              "scriptable-widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -636,12 +919,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple GitLab status widget for Scriptable",
+            "homepage": null,
             "id": 303186767,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2020-11-07T16:02:52Z",
+            "open_issues": 0,
             "owner": "p0fi",
             "repo": "gitlab-stats-for-scribtable",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "scriptable",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -652,12 +943,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of Scriptable widgets that I have created",
+            "homepage": null,
             "id": 744969799,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-01-16T09:11:55Z",
+            "open_issues": 0,
             "owner": "ferraridavide",
             "repo": "scriptable",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "ios",
+              "scriptable",
+              "scriptable-app",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -668,12 +969,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scriptable 搬瓦工VPS监控 IOS小组件  | Scriptable BandWagonHost VPS Monitoring iOS Widget",
+            "homepage": null,
             "id": 908169432,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-12-25T10:33:57Z",
+            "open_issues": 0,
             "owner": "f1tz",
             "repo": "bwh-monitor-widget-for-scriptable",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bandwagonhost",
+              "scriptable",
+              "vps"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -684,12 +994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 308889911,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-03T15:34:29Z",
+            "open_issues": 1,
             "owner": "Robby3St",
             "repo": "Scriptables-WindowWidget",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -700,12 +1015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track your Bamboo build plans effortlessly! This Scriptable Widget, coded in JavaScript, provides at-a-glance status updates, ensuring you stay informed on the health and progress of your projects right from your device's home screen. Enhance your development workflow with the Bamboo Build Widget.",
+            "homepage": null,
             "id": 734083692,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-18T22:21:44Z",
+            "open_issues": 0,
             "owner": "Korysam15",
             "repo": "bamboo-scriptable-widget",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -722,12 +1042,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Scriptable widgets I've built.",
+            "homepage": null,
             "id": 390462202,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T11:38:17Z",
+            "open_issues": 1,
             "owner": "doersino",
             "repo": "scriptable-widgets",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ios",
+              "ios-widget",
+              "javascript",
+              "scriptable",
+              "scriptable-widgets",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         },
@@ -738,12 +1070,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display your favourite bikes stops at a glance",
+            "homepage": "https://toronto-bike.alexboden.ca/",
             "id": 1081474014,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-01-16T01:30:58Z",
+            "open_issues": 0,
             "owner": "alexboden",
             "repo": "toronto-bike-share-status",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bike-share",
+              "toronto"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
         }
@@ -762,12 +1102,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My scripts for the Scriptable app. https://scriptable.app/",
+                "homepage": null,
                 "id": 155394599,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-13T03:45:40Z",
+                "open_issues": 3,
                 "owner": "supermamon",
                 "repo": "scriptable-scripts",
-                "stars": 239
+                "stars": 239,
+                "topics": [
+                  "javascript",
+                  "scriptable",
+                  "widgets"
+                ]
               },
               "first_seen": "2026-08-28T23:35:06.923Z"
             }
@@ -781,15 +1130,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:06.923Z",
+    "last_updated": "2026-08-29T04:28:40.788Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Scriptable scripts and widgets.",
+      "homepage": null,
       "id": 308960993,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-11-15T08:43:02Z",
+      "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1617
+      "stars": 1617,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ios",
+        "ios14",
+        "scriptable",
+        "scriptable-app",
+        "widget"
+      ]
     },
     "original_repository_sha": "f72dfbf602dba99fa39dacd96a63597c046be113",
     "enhanced_repository": "enhansome/enhansome-scriptable",
