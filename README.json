@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "niklasvieth",
             "repo": "polestar-ios-medium-widget",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:05:49.266Z",
+    "last_updated": "2026-08-31T20:12:48.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",

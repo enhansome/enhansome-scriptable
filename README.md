@@ -51,7 +51,7 @@
 
   <img src="https://raw.githubusercontent.com/DrieStone/TeslaData-Widget/main/documentation/screen_001.png" width="400"/>  
 
-* [Polestar SoC Medium Widget](https://github.com/niklasvieth/polestar-ios-medium-widget) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-19 - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) ⚠️ Archived.
+* [Polestar SoC Medium Widget](https://github.com/niklasvieth/polestar-ios-medium-widget) ⭐ 42 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-19 - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) ⚠️ Archived.
 
   <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
