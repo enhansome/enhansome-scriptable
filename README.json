@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "DrieStone",
             "repo": "TeslaData-Widget",
-            "stars": 62,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -433,7 +433,7 @@
             "open_issues": 10,
             "owner": "ThisIsBenny",
             "repo": "iOS-Widgets",
-            "stars": 277,
+            "stars": 276,
             "topics": [
               "ios",
               "javascript",
@@ -830,7 +830,7 @@
             "open_issues": 1,
             "owner": "jasonsnell",
             "repo": "PurpleAir-AQI-Scriptable-Widget",
-            "stars": 172,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -851,7 +851,7 @@
             "open_issues": 3,
             "owner": "colin273",
             "repo": "scriptable-testflight-watcher",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:31:48.820Z",
+    "last_updated": "2026-09-21T19:35:13.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1626,
+      "stars": 1628,
       "topics": [
         "awesome",
         "awesome-list",
