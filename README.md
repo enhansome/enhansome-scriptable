@@ -235,7 +235,7 @@
 
   <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
 
-* [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) ⭐ 107 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-09 - Get notifications about new spots in TestFlight betas.
+* [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) ⭐ 108 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-09 - Get notifications about new spots in TestFlight betas.
 
 * [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/GitHubStats%20Widget) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-27 - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
