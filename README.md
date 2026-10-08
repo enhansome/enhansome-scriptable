@@ -231,7 +231,7 @@
 
 ## Tools
 
-* [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) ⭐ 171 | 🐛 1 | 🌐 JavaScript | 📅 2023-09-27 - Air Quality from PurpleAir sensor.
+* [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) ⭐ 172 | 🐛 1 | 🌐 JavaScript | 📅 2023-09-27 - Air Quality from PurpleAir sensor.
 
   <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
