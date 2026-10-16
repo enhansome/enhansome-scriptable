@@ -151,7 +151,7 @@
             "open_issues": 2,
             "owner": "bitKrakenCode",
             "repo": "ScriptableWordClockWidget",
-            "stars": 87,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:24:40.327Z",
+    "last_updated": "2026-10-16T18:11:30.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
