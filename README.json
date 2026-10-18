@@ -172,7 +172,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ios",
               "ios-widgets",
@@ -200,7 +200,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ios",
               "ios-widgets",
@@ -228,7 +228,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ios",
               "ios-widgets",
@@ -486,7 +486,7 @@
             "open_issues": 9,
             "owner": "Saudumm",
             "repo": "scriptable-News-Widget",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "ios14",
               "ios14-widget",
@@ -512,7 +512,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ios",
               "ios-widgets",
@@ -830,7 +830,7 @@
             "open_issues": 1,
             "owner": "jasonsnell",
             "repo": "PurpleAir-AQI-Scriptable-Widget",
-            "stars": 172,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -872,7 +872,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ios",
               "ios-widgets",
@@ -900,7 +900,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ios",
               "ios-widgets",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:20:01.627Z",
+    "last_updated": "2026-10-18T17:26:05.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1640,
+      "stars": 1642,
       "topics": [
         "awesome",
         "awesome-list",

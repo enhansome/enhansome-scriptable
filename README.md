@@ -77,15 +77,15 @@
 
   <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
-* [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Schedule%20Widget) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Displays your daily or weekly class schedule from a Google Sheet.
+* [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Schedule%20Widget) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Displays your daily or weekly class schedule from a Google Sheet.
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/schedule/schedule_showcase.png" width="700"/>
 
-* [Countdown Widget](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Countdown%20Widget) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - A fully customizable countdown widget, powered by Google Sheets. Track upcoming events (birthdays, anniversaries, deadlines) on your iOS home screen with dynamic countdowns, age display, color/icon customization, flexible layouts, offline support, and Google Sheets integration.
+* [Countdown Widget](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Countdown%20Widget) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - A fully customizable countdown widget, powered by Google Sheets. Track upcoming events (birthdays, anniversaries, deadlines) on your iOS home screen with dynamic countdowns, age display, color/icon customization, flexible layouts, offline support, and Google Sheets integration.
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/countdown/countdow_showcase.png" width="700"/>
 
-* [Life Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Birthday%20Widget) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Displays exact age, days lived, and birthday progress using a circular ring.
+* [Life Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Birthday%20Widget) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Displays exact age, days lived, and birthday progress using a circular ring.
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/birthday/birthday_showcase.png" width="400"/>
 
@@ -163,11 +163,11 @@
 
 ## Reading
 
-* [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) ⭐ 130 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-24 - The latest posts from a feed or a WordPress blog.
+* [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) ⭐ 131 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-24 - The latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
-* [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Quote%20Widget) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
+* [MyQuotes](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/Quote%20Widget) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Display daily inspirational quotes pulled from your own Google Sheet. Supports categories like Zen, Gita, Aurelius, Kafka, and more, with auto-refresh and customizable colors.
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/quotes/quote_showcase.png" width="800"/>
 
@@ -231,17 +231,17 @@
 
 ## Tools
 
-* [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) ⭐ 172 | 🐛 1 | 🌐 JavaScript | 📅 2023-09-27 - Air Quality from PurpleAir sensor.
+* [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) ⭐ 173 | 🐛 1 | 🌐 JavaScript | 📅 2023-09-27 - Air Quality from PurpleAir sensor.
 
   <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
 
 * [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) ⭐ 108 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-09 - Get notifications about new spots in TestFlight betas.
 
-* [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/GitHubStats%20Widget) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
+* [GitHub Visuals](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/GitHubStats%20Widget) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - GitHub widget with contributions heatmap, commits, streaks, stars, and repo stats in themed layouts.
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/githubstats/githubstats_showcase.png" width="800"/>
 
-* [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/TimeProgress%20Widget) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Animated progress rings and grids showing your day, week, month, and year at a glance.
+* [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Widgets/TimeProgress%20Widget) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Animated progress rings and grids showing your day, week, month, and year at a glance.
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.assets/timeprogress/timeprogress_showcase.png" width="800"/>
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
