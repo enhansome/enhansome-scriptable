@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "opp100",
             "repo": "bmw-scriptable-widgets",
-            "stars": 161,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:00:28.340Z",
+    "last_updated": "2026-10-20T18:32:28.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
