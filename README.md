@@ -171,7 +171,7 @@
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/quotes/quote_showcase.png" width="800"/>
 
-* [sonntagsfrage](https://github.com/henningtillmann/sonntagsfrage) ⭐ 33 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-09 - The latest German political poll results.
+* [sonntagsfrage](https://github.com/henningtillmann/sonntagsfrage) ⭐ 33 | 🐛 3 | 🌐 JavaScript | 📅 2024-05-09 - The latest German political poll results.
 
   <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

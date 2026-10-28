@@ -537,7 +537,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2024-05-09T11:00:18Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "henningtillmann",
             "repo": "sonntagsfrage",
             "stars": 33,
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:29:17.660Z",
+    "last_updated": "2026-10-28T19:40:39.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1645,
+      "stars": 1646,
       "topics": [
         "awesome",
         "awesome-list",
