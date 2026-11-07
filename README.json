@@ -851,7 +851,7 @@
             "open_issues": 3,
             "owner": "colin273",
             "repo": "scriptable-testflight-watcher",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:28:28.790Z",
+    "last_updated": "2026-11-07T18:53:14.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
