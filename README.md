@@ -89,7 +89,7 @@
 
   <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/refs/heads/main/.assets/birthday/birthday_showcase.png" width="400"/>
 
-* [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) ⭐ 50 | 🐛 3 | 🌐 JavaScript | 📅 2022-03-08 - List of upcoming birthdays from contacts.
+* [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) ⭐ 51 | 🐛 3 | 🌐 JavaScript | 📅 2022-03-08 - List of upcoming birthdays from contacts.
 
   <img src="https://raw.githubusercontent.com/lwitzani/daysUntilBirthday/main/fullySetupWidget.PNG" width="400"/>
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

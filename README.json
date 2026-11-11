@@ -256,7 +256,7 @@
             "open_issues": 3,
             "owner": "lwitzani",
             "repo": "daysUntilBirthday",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.923Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:54:20.976Z",
+    "last_updated": "2026-11-11T21:27:47.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1652,
+      "stars": 1654,
       "topics": [
         "awesome",
         "awesome-list",
