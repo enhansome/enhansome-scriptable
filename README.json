@@ -1111,7 +1111,7 @@
                 "open_issues": 3,
                 "owner": "supermamon",
                 "repo": "scriptable-scripts",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "javascript",
                   "scriptable",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:55:37.796Z",
+    "last_updated": "2026-11-14T19:16:48.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",

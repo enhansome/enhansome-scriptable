@@ -287,7 +287,7 @@
 
 ### Download helper
 
-* [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) ⭐ 239 | 🐛 3 | 🌐 JavaScript | 📅 2022-11-13 - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
+* [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) ⭐ 240 | 🐛 3 | 🌐 JavaScript | 📅 2022-11-13 - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
 
 * [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
