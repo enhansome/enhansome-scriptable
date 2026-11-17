@@ -172,7 +172,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "ios",
               "ios-widgets",
@@ -200,7 +200,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "ios",
               "ios-widgets",
@@ -228,7 +228,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "ios",
               "ios-widgets",
@@ -512,7 +512,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "ios",
               "ios-widgets",
@@ -872,7 +872,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "ios",
               "ios-widgets",
@@ -900,7 +900,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "ios",
               "ios-widgets",
@@ -1047,8 +1047,8 @@
             "id": 390462202,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-02T11:38:17Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-17T10:47:01Z",
+            "open_issues": 0,
             "owner": "doersino",
             "repo": "scriptable-widgets",
             "stars": 59,
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:26:21.042Z",
+    "last_updated": "2026-11-17T22:29:31.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1656,
+      "stars": 1657,
       "topics": [
         "awesome",
         "awesome-list",
