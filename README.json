@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:29:31.956Z",
+    "last_updated": "2026-11-18T22:09:10.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1657,
+      "stars": 1658,
       "topics": [
         "awesome",
         "awesome-list",
