@@ -51,7 +51,7 @@
 
   <img src="https://raw.githubusercontent.com/DrieStone/TeslaData-Widget/main/documentation/screen_001.png" width="400"/>  
 
-* [Polestar SoC Medium Widget](https://github.com/niklasvieth/polestar-ios-medium-widget) ⭐ 42 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-19 - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) ⚠️ Archived.
+* [Polestar SoC Medium Widget](https://github.com/niklasvieth/polestar-ios-medium-widget) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-19 - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) ⚠️ Archived.
 
   <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
@@ -163,7 +163,7 @@
 
 ## Reading
 
-* [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) ⭐ 131 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-24 - The latest posts from a feed or a WordPress blog.
+* [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) ⭐ 130 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-24 - The latest posts from a feed or a WordPress blog.
 
   <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
@@ -213,7 +213,7 @@
 
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
-* [nfl-team-schedule-widget](https://github.com/brianwalborn/nfl-team-schedule-widget) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-14 - The current season schedule for an NFL team.
+* [nfl-team-schedule-widget](https://github.com/brianwalborn/nfl-team-schedule-widget) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-14 - The current season schedule for an NFL team.
 
 * [CFBWidget](https://github.com/jaydainn/CFBWidget) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2020-12-23 - Latest scores of a NCAA college football team.
 
@@ -303,4 +303,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

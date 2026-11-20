@@ -58,7 +58,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-19T15:24:42Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "niklasvieth",
             "repo": "polestar-ios-medium-widget",
             "stars": 42,
@@ -486,7 +486,7 @@
             "open_issues": 9,
             "owner": "Saudumm",
             "repo": "scriptable-News-Widget",
-            "stars": 131,
+            "stars": 130,
             "topics": [
               "ios14",
               "ios14-widget",
@@ -727,7 +727,7 @@
             "open_issues": 0,
             "owner": "brianwalborn",
             "repo": "football-team-schedule-widget",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "football",
               "javascript",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:17:37.722Z",
+    "last_updated": "2026-11-20T21:52:42.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1659,
+      "stars": 1662,
       "topics": [
         "awesome",
         "awesome-list",
