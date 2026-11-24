@@ -172,7 +172,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ios",
               "ios-widgets",
@@ -200,7 +200,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ios",
               "ios-widgets",
@@ -228,7 +228,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ios",
               "ios-widgets",
@@ -512,7 +512,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ios",
               "ios-widgets",
@@ -872,7 +872,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ios",
               "ios-widgets",
@@ -900,7 +900,7 @@
             "open_issues": 0,
             "owner": "rushhiii",
             "repo": "Scriptable-iOSWidgets",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ios",
               "ios-widgets",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:46:04.139Z",
+    "last_updated": "2026-11-24T01:44:35.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Scriptable scripts and widgets.",
@@ -1142,7 +1142,7 @@
       "open_issues": 2,
       "owner": "dersvenhesse",
       "repo": "awesome-scriptable",
-      "stars": 1663,
+      "stars": 1665,
       "topics": [
         "awesome",
         "awesome-list",
